@@ -1,0 +1,19 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "description": "aula2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlessi/aula2.git"
+  },
+  "author": "emili Carlessi Isoppo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlessi/aula2/issues"
+  },
+  "homepage": "https://github.com/carlessi/aula2#readme"
+}
